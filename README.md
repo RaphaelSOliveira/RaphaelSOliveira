@@ -9,11 +9,10 @@
 
 <br>
 
-<p align = "left">
+<div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSOliveira&&layout=compact&hide_border=true&theme=dracula" />
-
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelSOliveira&show_icons=true&hide_border=true&theme=dracula" />
-</p>
+</div>
 
 <br>
 
